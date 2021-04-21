@@ -1,12 +1,16 @@
 ---
-title: Video Lesson
-teaching: null
-exercises: null
+title: Dealing with sensitive data
+teaching: 30
+exercises: 24
 duration: null
-summary: This template shows you how to include embedded videos in your lessons.
+summary: The term 'sensitive data' is used to refer to data relating to people,
+  animal or plant species, data generated or used under a restrictive commercial
+  research funding agreement, and any data likely to have significant negative
+  public impact if released.
 questions: null
 objectives: null
-keypoints: null
+keypoints:
+  - Sensitive data bootcamp (external link)
 is-break: null
 ukrn_wb_rules:
   - allow-multiple
