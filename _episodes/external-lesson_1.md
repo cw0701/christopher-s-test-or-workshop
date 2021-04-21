@@ -1,10 +1,11 @@
 ---
 title: External Lesson
-teaching: null
+teaching: 5
 exercises: 20
-duration: null
+duration: 5
 summary: This template shows you how to use an external tutorial as a lesson.
-questions: null
+questions:
+  - What is this question about?
 objectives:
   - Understand how to upload files to FigShare
 keypoints:
