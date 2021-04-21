@@ -16,7 +16,7 @@ is-break: null
 ukrn_wb_rules:
   - allow-multiple
 day: 1
-order: 100000
+order: 300000
 missingDependencies: []
 dependencies: []
 originalRepository: UKRN-Open-Research/ukrn-wb-lesson-templates
