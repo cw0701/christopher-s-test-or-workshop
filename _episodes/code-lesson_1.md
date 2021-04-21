@@ -1,13 +1,17 @@
 ---
-title: Code Lesson
+title: Sharing research data
 teaching: null
 exercises: null
 duration: null
-summary: This template shows you how to include computer code and its output in
-  your lessons.
+summary: Many major research funders and academic publishers call for research
+  data to be shared, and for access to be published in the form of a 'data
+  access statement'.
 questions: null
 objectives: null
-keypoints: null
+keypoints:
+  - Data access statements
+  - The data access statement interactive tool
+  - Research with commercial applications
 is-break: null
 ukrn_wb_rules:
   - allow-multiple
