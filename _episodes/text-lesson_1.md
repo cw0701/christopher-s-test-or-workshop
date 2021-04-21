@@ -1,18 +1,21 @@
 ---
-title: Text Lesson
-teaching: null
-exercises: null
+title: Storing and using research data
+teaching: 15
+exercises: 30
 duration: null
-summary: This template shows you how to use the various different special text
-  boxes on offer.
+summary: Storing your research data securely while maintaining ongoing access
+  can be a challenge, especially for large or sensitive datasets.
 questions: null
 objectives: null
-keypoints: null
+keypoints:
+  - Data analysis
+  - Data-intensive research
+  - Research databases
 is-break: null
 ukrn_wb_rules:
   - allow-multiple
 day: 1
-order: 300000
+order: 50000
 missingDependencies: []
 dependencies: []
 originalRepository: UKRN-Open-Research/ukrn-wb-lesson-templates
