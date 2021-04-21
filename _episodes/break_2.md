@@ -1,8 +1,8 @@
 ---
 title: Break
-teaching: 15
-exercises: 15
-duration: null
+teaching: null
+exercises: null
+duration: 20
 summary: Allowing participants breaks helps everyone stay alert and focused.
 questions: null
 objectives: null
